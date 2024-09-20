@@ -1,2 +1,2 @@
-# gum_app
+# gym_app
 MVP Project!
